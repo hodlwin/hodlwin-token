@@ -6,3 +6,7 @@ Although WIN tokens will be available on exchanges the exchagnes will not be req
 As long as HODLwin has a revenue stream feeding directly into the HODLwin2Eth contract token holders will always be able to exchange their tokens for eth without reliance on exchanges. The price can also never be lowered below the set launch price only raised lowered above that set price depending on demand and Eth supply.
 
 HODLwin2ETH is based on the TokenTrader contract by JonnyLatte, Cintix & BokkyPooBah but reduced and modified significantly to suit our purpose at HODLwin by our HODLwin team.
+
+Check us out at www.hodlwin.com
+sign up for our competetition to crack the myetherwallet password with a 5,000,0000 token instant prize
+https://www.hodlwin.com/#contest
